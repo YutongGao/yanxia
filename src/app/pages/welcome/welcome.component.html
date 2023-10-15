@@ -1,0 +1,19 @@
+
+<div style="background: #ECECEC;padding:30px;">
+  <nz-pagination [nzPageIndex]="currentPage" [nzTotal]="pageCount " (nzPageIndexChange)="pageSwitch($event)"  [nzPageSize]="pageSize"></nz-pagination>
+  <div nz-row [nzGutter]="24" >
+    <div nz-col [nzSpan]="24" *ngFor="let event of eventList">
+      <nz-card style="margin-bottom: 20px" [nzTitle]="event.title" nzHoverable>
+        <img
+          nz-image
+          style="width:240px"
+          nzSrc="{{event.img}}"
+          alt=""
+        />
+        <p style="font-size:14px;color:rgba(0, 0, 0, 0.85);margin-bottom:16px;font-weight: 500;word-wrap: break-word;word-break: break-all;"
+        [innerHTML]="event.intro | toBr"></p>
+      </nz-card>
+    </div>
+  </div>
+  <nz-pagination [nzPageIndex]="currentPage" [nzTotal]="pageCount " (nzPageIndexChange)="pageSwitch($event)"  [nzPageSize]="pageSize"></nz-pagination>
+</div>
