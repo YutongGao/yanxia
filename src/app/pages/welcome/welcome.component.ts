@@ -18,10 +18,7 @@ export class WelcomeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-
     this.eventList = events.slice((this.currentPage - 1) * this.pageSize, this.currentPage * this.pageSize);
-    console.log(this.pageCount);
-    console.log(events);
   }
 
   pageSwitch(page: number){

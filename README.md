@@ -13,6 +13,12 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Specifically, `ng build  --configuration production --base-href "https://yutonggao.github.io/yanxia/"`
+
+## Deploy
+
+Run `ngh`
+
 
 ## Running unit tests
 
