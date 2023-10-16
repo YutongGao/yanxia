@@ -43,6 +43,143 @@ export const events: event[] = [
   //   count: 0,
   //   img:''
   // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  // {
+  //   title: '',
+  //   author: '',
+  //   intro: '',
+  //   count: 0,
+  //   img:''
+  // },
+  {
+    title: '第七十期分享：本意是好的',
+    author: '',
+    intro: '很多失败的国家项目结束后，我们经常能听到这种感叹：“本意是好的，只是下面执行错了。”然而事实真的是这样吗？这一次，我们会分享詹姆斯·C·斯科特的《国家的视角》，谈一谈那些失败的国家项目。这些轰轰烈烈的运动是如何发起的？为什么他们后来都失败了？\n' +
+      '\n' +
+      '你看过马前卒的“睡前消息”吗？马前卒提出了很多雄心勃勃的建议：比如社会化抚养、消灭小农经济、全面普及儿童手环……你同意这些建议吗？反对的理由又是什么？\n' +
+      '\n' +
+      '在参加下次分享之前，我强烈推荐两个有趣的资源：\n' +
+      '\n' +
+      '小约翰可汗的视频“英国如何给非洲人民送福利？【神奇组织08】”：https://www.bilibili.com/video/BV1uk4y1u7aY/\n' +
+      '\n' +
+      '豆子的微小说“改粮为桑”：https://zhuanlan.zhihu.com/p/33174367',
+    count: 0,
+    img:'assets/photos/70.png'
+  },
+  {
+    title: '第六十九期：动漫地理学102：《孤独摇滚！》 下北泽！',
+    author: '',
+    intro: '本次分享介绍动漫《孤独摇滚！》，介绍其中社恐相关的话题，介绍故事发生地下北泽的故事。\n' +
+      '\n' +
+      '引起兴趣的问题：\n' +
+      '你看过《孤独摇滚！》吗？\n' +
+      '社恐是天生的吗？\n' +
+      '下北泽为何成为（亚）文化胜地的？\n' +
+      '野兽先辈到底是什么梗？\n' +
+      '本次分享将讨论的内容：\n' +
+      '《孤独摇滚！》讲了一个什么故事？\n' +
+      '社恐在《孤独摇滚！》中有哪些细节体现？\n' +
+      '社恐是否是一个心理问题？如果是该如何解决？\n' +
+      '下北泽是一个什么样的地方？\n' +
+      'Disclaimer：\n' +
+      '对于无法理解社恐的人，这部动漫在社恐的描绘上似乎有些无法理解。如果对社恐概念无法接受，请谨慎选择是否需要参与。\n' +
+      '\n' +
+      'Reference：\n' +
+      '孤独摇滚！\n' +
+      '《孤独摇滚！》舞台剧',
+    count: 0,
+    img:'assets/photos/69.jpg'
+  },
   {
     title: '第六十八期：动漫地理学101：镰仓——何为真物',
     author: '',
@@ -114,7 +251,7 @@ export const events: event[] = [
       '\n' +
       '中国人对月亮有何特别的见解？这些见解从哪里来的？',
     count: 0,
-    img:''
+    img:'assets/photos/66.png'
   },
   {
     title: '第六十四期：甲申诗史--吴梅村书写的一六四四',
@@ -181,7 +318,7 @@ export const events: event[] = [
       '\n' +
       'https://www.zhihu.com/question/24982618/answer/120953016 ',
     count: 0,
-    img:''
+    img:'assets/photos/62.gif'
   },
   {
     title: '第六十一期： “我太想进步了”——南京古都身份构建的历程',
@@ -210,7 +347,7 @@ export const events: event[] = [
       '对于一个政权来说，大建宫室意味着什么？\n' +
       '南宋是出于什么原因放弃了定都南京？\n',
     count: 0,
-    img:''
+    img:'assets/photos/61.png'
   },
   {
     title: '第六十期：汉奸三部曲——“我为其难”汪兆铭',
@@ -386,7 +523,7 @@ export const events: event[] = [
       '\n' +
       '尤其是最后一个问题，非常重要，值得深入探讨。这次活动的互动猜谜环节被放到了前面，希望大家尽早入场哟！\n',
     count: 0,
-    img:''
+    img:'assets/photos/53.png'
   },
   {
     title: '第五十二期：闪电和先辈：君士坦丁堡的1453和2023',
@@ -680,7 +817,7 @@ export const events: event[] = [
       '\n' +
       '《三国志》',
     count: 0,
-    img:''
+    img:'assets/photos/39.gif'
   },
   {
     title: '第三十八期：日出江花——长者在罗马尼亚',
@@ -944,7 +1081,7 @@ export const events: event[] = [
       '如何看待耽美同人（Slash Fanfic）的发展和”组CP“？\n' +
       '为什么耽美同人的创作者和受众主要都是女性？',
     count: 0,
-    img:''
+    img:'assets/photos/22.png'
   },
   {
     title: '第二十一期：桓君山之志事',
@@ -1014,7 +1151,7 @@ export const events: event[] = [
       '- 你听说过哪些关于魂魄的说法？\n' +
       '- 你对清朝和乾隆皇帝有哪些印象？\n',
     count: 0,
-    img:''
+    img:'assets/photos/18.png'
   },
   {
     title: '第十七期：中文屋',
